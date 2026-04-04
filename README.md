@@ -31,7 +31,7 @@ Création d'un rapport interactif de 5 pages incluant :
 * **?? :** Modélisation prescriptive des allures cibles par tranche d'objectif de temps final.
 
 ## Aperçu du Tableau de Bord
-*(Ajoute ici une image de ton dashboard : `![Dashboard Page 1](images/dashboard1.png)`)*
+*![Aperçu du Dashboard](dashboard_hyrox.png)*
 
 ## Key Insights (Principales Découvertes)
 * *Insight 1 : Le Top 10 Pro gagne principalement son avance sur la course à pied et les Wall Balls*
