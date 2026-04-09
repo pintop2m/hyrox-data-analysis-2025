@@ -5,7 +5,7 @@
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboarding-4285F4.svg)
 
 ## Présentation du Projet
-Ce projet est une analyse de bout en bout des performances des athlètes (catégories Doubles Open & Pro) lors de la course de fitness fonctionnel **Hyrox Paris 2025**. 
+Ce projet est une analyse de bout en bout des performances des athlètes (catégories Doubles Open & Pro) lors de la course de l'**Hyrox Paris 2025**. 
 L'objectif était d'extraire des données web, de les nettoyer et de les modéliser pour créer un tableau de bord interactif permettant d'analyser la gestion de l'effort (pacing) et les stratégies de course.
 
 🔗 **[https://lookerstudio.google.com/reporting/3f4dca34-77bb-4697-ad73-adb27ec8bef7]**
